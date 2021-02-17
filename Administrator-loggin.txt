@@ -1,0 +1,5 @@
+﻿start-цэсийг нээгээд search дээр нь 
+command prompt-ын хулганы баруун товчийг дараад 
+Run as administrator дараад 
+net user administrator /active:yes Буцаах бол no гэж бичнэ. 
+start-цэсийг нээгээд shutdown logoff..

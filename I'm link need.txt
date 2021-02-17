@@ -1,0 +1,93 @@
+﻿
+shoppy.mn
+https://infinite.mn/#/
+https://tomyo.mn/#
+
+
+
+Web сайт хийхэд хэрэгтэй зүйлс 
+
+https://builtwith.com/
+frontend 
+
+
+
+
+HTML
+
+CSS
+					https://www.pexels.com/
+Вэб loading хийж харагдуулах spinner:   https://projects.lukehaas.me/css-loaders/   
+Орчин үеийн мэдээ мэдээлэл		https://css-tricks.com/
+					https://cssauthor.com/
+Logo 					https://svgporn.com/
+Гое дизианы шийдэл 			https://dribbble.com/
+2021 оны тренд вэб 			https://99designs.com/blog/trends/web-design-trends/
+
+
+Javascript
+
+
+React
+
+
+Bundle 
+Webpack шахаж баглаж боох:              https://webpack.js.org/ 
+
+
+Onlian editor 
+
+https://playcode.io/ 
+https://playcode.io/react/
+https://codesandbox.io/
+
+
+
+
+Extensions
+
+Google Translate 2.0.9
+Lookup on Merriam-Webster 1.3
+JSON Viewer Pro 1.0.0
+React Developer Tools 4.10.1 (12/4/2020)
+Redux DevTools 2.17.0
+
+
+Formatter
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------
+Backend 
+
+Сэрвэрүү хүсэлт илгээдэг:   		https://www.postman.com/
+Common MIME types: 			https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types 
+
+dependencies
+сэрвэрээс татах: 			axios ---> npm i axios --save
+
+devDependencies
+nodemon   --->   node monitor---node web server автоматаар ажиллуулна: npm i nodemon --save-dev
+                Тайлбар: суулгасныхаа дараа package.json-ны script дотор (start: nodemon server.js) = npm start
+
+email илгээх 					https://nodemailer.com/about/
+email илгээхэд үнэгүй email сэрвэр 		https://mailtrap.io/
+---------------------------------------------------------------------------------------------------------------
+
+onlian downloader
+https://saveas.co   ---> Facebook video downlaoder
+https://en.savefrom.net/1-how-to-download-youtube-video/ ---> youtube video downloader
+
+
+Ойр зуурын онол 
+
+bootstrap ---> css framework 
+
+image
+free picture 				https://pixabay.com/
+					https://www.pexels.com/
